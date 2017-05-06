@@ -1,2 +1,2 @@
 # meteor-vue-vuex
-A Meteor - Vue - Vuex boilerplate
+A Meteor - Vue - Vue-Router - Vuex configuration example
